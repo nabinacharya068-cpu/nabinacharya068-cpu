@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am Nabin Acharya, a BSc IT student at ISMT College with a strong focus on backend development and core programming. <br><br>Languages: Python, JavaScript, Node.js, Java, C, C++. <br><br>Frameworks: Django, Express.js.<br><br> Databases: PostgreSQL, MongoDB, MySQL.<br><br> Cloud & DevOps: Git, GitHub. I am passionate about building scalable applications and continuously improving my skills in modern software development technologies.<br>
+I am Nabin Acharya, a BSc IT student at ISMT College with a strong focus on backend development and core programming. <br><br>Languages: Python, JavaScript, Node.js, Java, C, C++. <br><br>Frameworks: Django, Express.js.<br><br> Databases: PostgreSQL, MongoDB, MySQL.<br><br> Cloud & DevOps: Git, GitHub. 
+I am passionate about building scalable applications and continuously improving my skills in modern software development technologies.<br>
 
 
 ## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nabeen_acharya10) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@nabinacharya436) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nabinacharya068@gmail.com) 
